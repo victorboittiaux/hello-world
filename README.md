@@ -1,2 +1,5 @@
 # hello-world
-just a new repository
+Here is a new repository with some changements. 
+
+Taking over Toulouse 
+
